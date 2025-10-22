@@ -1,0 +1,23 @@
+# ninja log v7
+38	739	7826014381222257	CMakeFiles/figures_lib.dir/src/Triangle.cpp.obj	7848d35e85989ae9
+48	772	7826014381396951	CMakeFiles/figures_lib.dir/src/FigureArray.cpp.obj	66f79b272245dd9a
+42	705	7826014381222257	CMakeFiles/figures_lib.dir/src/Square.cpp.obj	a5b036ce529fa108
+53	719	7826014381396951	CMakeFiles/lab3_main.dir/src/main.cpp.obj	5cb52a06e2b19f28
+42	1584	7825693659984895	_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	f610d4911a40c86e
+67	2009	7825693660249533	_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.obj	5b27b579c5f2bcd
+60	1860	7826014381507369	CMakeFiles/lab3_tests.dir/tests/test_square.cpp.obj	a55dceda902f4b96
+64	1985	7826014381559127	CMakeFiles/lab3_tests.dir/tests/test_octagon.cpp.obj	80b29fb126a98fa7
+56	1994	7826014381396951	CMakeFiles/lab3_tests.dir/tests/test_triangle.cpp.obj	3ce4772490e0a78c
+71	2190	7826014381647341	CMakeFiles/lab3_tests.dir/tests/test_array.cpp.obj	2736efb2f175e8cb
+38	4836	7825693659942647	_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj	d8899ba60e610a39
+20	12469	7825693659782068	_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	dca7bc65c769557c
+45	699	7826014381222257	CMakeFiles/figures_lib.dir/src/Octagon.cpp.obj	5a52cca2801cb391
+12470	12625	7825693784279919	lib/libgtest.a	f89c172bb054f42a
+772	865	7826014388642473	libfigures_lib.a	b1f39ff9bc7e2c4f
+12631	12693	7825693785888873	lib/libgtest_main.a	b5ff9dbf13b5765
+12625	12716	7825693785834479	lib/libgmock.a	ac0d3730c724f6dd
+12716	12815	7825693786741019	lib/libgmock_main.a	1e0166da2f0f1570
+865	992	7826014389553370	lab3_main.exe	7314f59d4504f23d
+2191	3395	7826014414718641	lab3_tests.exe	f067f879e588da4e
+2191	3395	7826014414718641	lab3_tests[1]_tests.cmake	f067f879e588da4e
+2191	3395	7826014414718641	D:/OOP_lab3/build/lab3_tests[1]_tests.cmake	f067f879e588da4e
